@@ -5,6 +5,10 @@ My Awesome Collections
 ## Webs
 [PDF等文件的转换: https://www.aconvert.com/pdf](https://www.aconvert.com/pdf)
 
+[算法可视化： https://visualgo.net/zh](https://visualgo.net/zh)
+
+[正则表达式在线检查： https://regex101.com/](https://regex101.com/)
+
 ### Blogs
 
 ## Apps
