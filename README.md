@@ -9,7 +9,12 @@ My Awesome Collections
 
 [正则表达式在线检查： https://regex101.com/](https://regex101.com/)
 
+[狗云盘：百度网盘资源搜索](http://www.yunpangou.com/)
+
 ### Blogs
+
+[混沌思维： 前端博客](https://xuyuanxiang.me/)
+[Overreacted: Dan的技术博客](https://overreacted.io/)
 
 ## Apps
 
@@ -19,6 +24,7 @@ My Awesome Collections
 - DevonThink
 - Notion
 - Alfred
+- Dash
 - iina
 - Easy res
 - Deep L
