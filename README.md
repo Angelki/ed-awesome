@@ -14,7 +14,10 @@ My Awesome Collections
 ### Blogs
 
 [混沌思维： 前端博客](https://xuyuanxiang.me/)
+
 [Overreacted: Dan的技术博客](https://overreacted.io/)
+
+[Front end gods](https://frontendgods.com/)
 
 ## Apps
 
