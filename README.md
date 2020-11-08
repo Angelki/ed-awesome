@@ -10,6 +10,7 @@ My Awesome Collections
 [正则表达式在线检查： https://regex101.com/](https://regex101.com/)
 
 [狗云盘：百度网盘资源搜索](http://www.yunpangou.com/)
+[Hack News](https://news.ycombinator.com/)
 
 ### Blogs
 
@@ -18,6 +19,8 @@ My Awesome Collections
 [Overreacted: Dan的技术博客](https://overreacted.io/)
 
 [Front end gods](https://frontendgods.com/)
+
+[codesky](https://www.codesky.me/)
 
 ## Apps
 
