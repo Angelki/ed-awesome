@@ -21,6 +21,9 @@ My Awesome Collections
 
 [c++ tutorial](http://www.cplusplus.com/)
 
+[Rust WASM tutorial](http://tutzip.com/tut/rustwasm/)
+[Rust by example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+
 ### Blogs
 
 [Overreacted: Dan的技术博客](https://overreacted.io/)
